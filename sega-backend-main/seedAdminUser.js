@@ -18,7 +18,8 @@ async function seedUsers() {
       { username: "neometalsonic", password: "metaloverlord", role: "admin" },
       { username: "infinite", password: "rubifantasma", role: "user" },
       { username: "sage", password: "aiassistant", role: "user" },
-      { username: "metalsonic", password: "metal", role: "user" }
+      { username: "metalsonic", password: "metal", role: "user" },
+      { username: "Ricardo", password: "4321", role: "admin" }
     ];
 
     // Encriptar contraseñas

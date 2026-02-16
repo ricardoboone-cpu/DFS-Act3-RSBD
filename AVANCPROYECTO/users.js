@@ -1,5 +1,6 @@
 const users = [
   { username: "eggman", password: "Sage2022", role: "admin" },
+    { username: "Ricardo", password: "4321", role: "admin" },
   { username: "neometalsonic", password: "metaloverlord", role: "admin" },
 
   { username: "infinite", password: "rubifantasma", role: "editor" },
